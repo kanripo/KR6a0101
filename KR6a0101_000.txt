@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 雜阿含經
+#+DATE: 2015-08-30 19:31:33.282932
+#+PROPERTY: JUAN 0
